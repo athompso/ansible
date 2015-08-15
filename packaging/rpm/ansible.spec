@@ -73,6 +73,7 @@ Requires: python-setuptools
 %endif
 
 Requires: sshpass
+Requires: openssh-clients
 
 %description
 
